@@ -2,6 +2,7 @@ package cod;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
+
 /**
  * 
  * @author dpazolopez
